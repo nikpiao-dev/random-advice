@@ -2,6 +2,8 @@
 
 Random Quote Generator
 
+![Random Quote Generator](random-advice.gif)
+
 This is a simple Random Quote Generator project created using JavaScript and an external API.
 
 Overview
