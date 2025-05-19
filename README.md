@@ -32,10 +32,6 @@ Open the index.html file in a web browser.
 
 Click the "New Advice" button.
 
-Contributing
-
-Contributions are welcome! If you have any ideas for improvements or new features, feel free to fork the repository and submit a pull request.
-
 
 Acknowledgements
 This project utilizes the https://api.adviceslip.com/ API to fetch quotes.
