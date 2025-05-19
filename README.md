@@ -2,7 +2,7 @@
 
 Random Quote Generator
 
-![Random Quote Generator](random-advice.gif)
+![Random Quote Generator](random_advice.gif)
 
 This is a simple Random Quote Generator project created using JavaScript and an external API.
 
